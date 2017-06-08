@@ -1,4 +1,4 @@
-# Rechnungsersteller
+# Invoice Form
 This source code is intended to be a minimal website to produce
 LaTeX-typesetted invoices.
 It offers a simple form to enter metadata and invoice assets,
